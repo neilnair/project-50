@@ -1,0 +1,37 @@
+h1{
+    color:rgb(0, 245, 82)
+}
+
+.header{
+    justify-content: center;
+    background-color: cornflowerblue;
+    display:flex;
+}
+
+.site-description{
+    display:flex;
+    justify-content: first baseline;
+    flex-direction: column;
+}
+
+.menu{
+    justify-content: left;
+    display:flex;
+    color:blue
+    
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.grid img{
+    border:2px black
+    border-radius 50px
+}
+.footer{
+    text-align: center;
+    color:crimson
+}
+
